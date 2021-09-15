@@ -3,8 +3,8 @@ html {
     font-style: normal;
     word-spacing: 1px;
     display: flex;
-  justify-content: center;
-  align-items: center
+    justify-content: center;
+    align-items: center
 }
 
 .error-holder ul {
